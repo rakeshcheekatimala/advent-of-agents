@@ -6,7 +6,8 @@ pip install google-adk
 
 Verify Version
 
-```adk --version
+```
+adk --version
 
 ```
 
